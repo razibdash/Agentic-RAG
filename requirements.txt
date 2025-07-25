@@ -1,7 +1,8 @@
-crewai==0.28.8 
-crewai_tools==0.1.6 
-langchain_community==0.0.29 
+crewai==0.22.5
+crewai[tools]
+langchain
+langchain_community 
 sentence-transformers 
-langchain-groq
 langchain_huggingface
+langchain-groq
 -e .
