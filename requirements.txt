@@ -6,3 +6,5 @@ sentence-transformers
 langchain_huggingface
 langchain-groq
 -e .
+
+pip install faiss-cpu
