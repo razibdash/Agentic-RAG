@@ -1,5 +1,4 @@
 from langchain.chains import RetrievalQA
-from langchain.chat_models import ChatGroq
 from vectorstore.store import get_vectorstore
 from dotenv import load_dotenv
 import os
